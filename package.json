@@ -1,0 +1,15 @@
+{
+  "name": "trufflehdwallet-browserify",
+  "version": "1.0.0",
+  "description": "truffle hd wallet for browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MultiShiv19",
+  "license": "MIT",
+  "dependencies": {
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta.33"
+  }
+}

@@ -1,0 +1,1 @@
+# Truffle Wallet HD and Web3 browserify project for TrueID
