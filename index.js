@@ -189,7 +189,7 @@ window.initWeb3 = function(mnemonic) {
                 type: "constructor"
             }
         ],
-        "0x62a0993B649B3ab0388e17d5094B67fde6015e54"
+        "0x2366dDe15F0dcD06f3604c05C029Fd6C0620a50F"
     );
 
     return new Promise((resolve, reject) => {
