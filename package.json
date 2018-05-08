@@ -4,7 +4,8 @@
   "description": "truffle hd wallet for browser",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "browserify index.js -o bundle.js"
   },
   "author": "MultiShiv19",
   "license": "MIT",
